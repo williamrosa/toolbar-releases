@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Versión inicial de Toolbar by FixTech SV",
+  "pub_date": "2026-08-17T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "AQUI_IRA_LA_FIRMA_MAS_ADELANTE",
+      "url": "AQUI_IRA_EL_LINK_DEL_EXE_MAS_ADELANTE"
+    }
+  }
+}
