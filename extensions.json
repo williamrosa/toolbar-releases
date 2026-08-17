@@ -1,0 +1,13 @@
+{
+  "extensions": [
+    {
+      "id": "ext-obs-studio",
+      "name": "OBS Studio Control",
+      "description": "Controla tus escenas, silencia el micrófono y maneja tu stream de OBS directamente desde la Toolbar.",
+      "version": "1.0.0",
+      "author": "FixTech SV",
+      "icon": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/main/icons/obs-icon.png",
+      "download_url": ""
+    }
+  ]
+}
