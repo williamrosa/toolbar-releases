@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "Versión inicial de Toolbar by FixTech SV",
-  "pub_date": "2026-08-17T00:00:00Z",
+  "version": "1.0.2",
+  "notes": "Corrección de versiones y prueba del sistema de actualización.",
+  "pub_date": "2026-08-18T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa0U1SVk3VDJiN0t5VFprNHk1MFJ3Z3RlY0FwaGlCWWgxakZ0bC9OaVBmMGRrYUdUVmx3NGpneG9LYUh2cVQwaGRHQ0lrRTdmbmtHbVhFKzhsdzl4T0pRU0hWVGhVNWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDY3NDI4CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzEuMC4xX3g2NC1zZXR1cC5leGUKMDlBQW9LYi9raG91dHBzVlQ3OUNabm5qSjdINE1XcTJZTWE2SDg0Z2dzS080dkNOWDFNYmh0UEpNNDlCakNWMnhqQ1Z1UXRNd3l2RFBUWHJDcW5RRGc9PQo=",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v1.0.1/Toolbar.by.Fixtech.sv_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa0U1SVk3VDJiN0hOTGxLbFc3aUQ0ci9YNGVLb0QzejlncXNzVkZXTWdvSyt1N1U2bzJlSEluUWZIYlNQcHRVTjhWc1pCQlVuZEdkUmlrOFM1SHQ3NjhscU1TdDNBK1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDc2NDM4CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzEuMC4yX3g2NC1zZXR1cC5leGUKVGhmU2pSdW1YZjhubnRhY0ZWUmh1OHRraTV1SXdDZGgxQjFrZXMyOUhFeWRUQTJSRnc2cFhldDNrZ1k5Z09yajJOMlBaci85Ly9wOW9yekZ3bGxDQ1E9PQo=",
+      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v1.0.2/Toolbar.by.Fixtech.sv_1.0.2_x64-setup.exe"
     }
   }
 }
