@@ -7,7 +7,7 @@
       "version": "1.0.0",
       "author": "FixTech SV",
       "icon": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/main/icons/obs-icon.png",
-      "download_url": ""
+      "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-obs-studio.js"
     }
   ]
 }
