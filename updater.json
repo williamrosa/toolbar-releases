@@ -1,11 +1,11 @@
 {
-  "version": "2.0.0",
-  "notes": "Actualización del Motor de Extensiones Dinámicas.",
-  "pub_date": "2026-08-21T00:00:00Z",
+  "version": "2.0.1",
+  "notes": "Estabilidad de Extensiones y Herramientas Avanzadas.",
+  "pub_date": "2026-08-21T10:34:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa0U1SVk3VDJiN1BIMjhlekExdlhsVVlhVTRmNVZBSnpUNGF5emVyWTdYSlkyaW5IMjliZGprOHBqY2UyWFlVbFdyaVFlbWZYSVNBM2JVV0dkQmtBTTJoQjBsWTVTN3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzI0NTQyCWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMC4wX3g2NC1zZXR1cC5leGUKV3k1cWN3V09hWXNRKzFuZnNlSUYxaXE2TTdqRGp2NWRYUEFENkZKclRJOEtzUFBqMjlRR1FPYU1XTkdjMTlYTkErTkFCcDdDNWljK2lEZm5EV015QlE9PQo=",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.0.0/Toolbar.by.Fixtech.sv_2.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa0U1SVk3VDJiN0ZjT2w1b2V6T01MS1JlaXlYZXNyVjFHRG13OHF1SWJPditIOGpPUTRiemdkc1VUUkFYcWpMNjNBWEptelpxdFd4NXQ0VEt3YW93aUJjUytpb3luR2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzI5NDU3CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMC4xX3g2NC1zZXR1cC5leGUKY0RQdjdFZVE3YmNGdjhJdzQ1R2RJSFlRMzNMMGVxNWlmajFSS3VHVU8xT3B0LzcxT1NFcjFEejN3N0dNVlViMEhtTWZpS1pVL3dnWDJJOUh0SGYrQWc9PQo=",
+      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.0.1/Toolbar.by.Fixtech.sv_2.0.1_x64-setup.exe"
     }
   }
 }
