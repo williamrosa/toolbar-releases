@@ -1,6 +1,6 @@
 # 🛠️ Toolbar by FixTech SV
 
-**FixTech Toolbar** es una aplicación de escritorio modular y ultraligera diseñada para potenciar la productividad y el control de herramientas de streaming y hardware. Construida con tecnologías web modernas y un backend robusto, ofrece un ecosistema dinámico de extensiones.
+**Toolbar** es una aplicación de escritorio modular y ultraligera diseñada para potenciar la productividad y el control de herramientas de streaming y hardware. Construida con tecnologías web modernas y un backend robusto, ofrece un ecosistema dinámico de extensiones.
 
 ---
 
