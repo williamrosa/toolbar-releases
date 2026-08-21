@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "notes": "Corrección de versiones y prueba del sistema de actualización.",
-  "pub_date": "2026-08-18T00:00:00Z",
+  "version": "2.0.0",
+  "notes": "Actualización del Motor de Extensiones Dinámicas.",
+  "pub_date": "2026-08-21T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa0U1SVk3VDJiN1BIMjhlekExdlhsVVlhVTRmNVZBSnpUNGF5emVyWTdYSlkyaW5IMjliZGprOHBqY2UyWFlVbFdyaVFlbWZYSVNBM2JVV0dkQmtBTTJoQjBsWTVTN3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzI0NTQyCWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMC4wX3g2NC1zZXR1cC5leGUKV3k1cWN3V09hWXNRKzFuZnNlSUYxaXE2TTdqRGp2NWRYUEFENkZKclRJOEtzUFBqMjlRR1FPYU1XTkdjMTlYTkErTkFCcDdDNWljK2lEZm5EV015QlE9PQo=",
