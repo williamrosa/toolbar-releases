@@ -1,11 +1,11 @@
 {
-  "version": "2.1.1",
-  "notes": "Parche de Seguridad y Validación Estricta.",
-  "pub_date": "2026-08-21T15:30:00Z",
+  "version": "2.2.0",
+  "notes": "Ejecución Segura en Segundo Plano y Nuevas Distribuciones de Cuadrícula.",
+  "pub_date": "2026-08-28T14:10:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa0U1SVk3VDJiN041Rkt3WnNJSFpVTHAwQ0dnUStObTJBSTN3cnIwMlRkODcxS25KbU5GYVlRb2d0TytzMjZ2NTNXRnQzeWRZaERlUVkvbitmZzdvVDViOGlDVWJta3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzQ4NzA2CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMS4xX3g2NC1zZXR1cC5leGUKbU5MNnBsemEzM3FEUFk4SmZFc0JSK3lHNDZ5ZlBtaGFmUVBybGhycGE2V284Y3EzanpnQUpZRmVORXRWSm84QlRrRHIwTUJucEszS1lrazdrbmdkQnc9PQo=",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.1.1/Toolbar.by.Fixtech.sv_2.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa0U1SVk3VDJiN0RYNW9pakRvRkE1aGpoMFBNMnM3bjIzcGt2MVhrSGZSODJHZkJSbXQyM28yQVB5UG1lTUF0TDFncWxoTlJSMUdMVWlYRFlUVjBTNTNFRXpLRDBBK2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTQ2OTI4CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMi4wX3g2NC1zZXR1cC5leGUKZE15dThCZS8yZk5kYzRpSTZxNDhSdHBsdkt6T3BkSFJSM3hmdGRxY01hMVVmK0M3bEIza0M0amlsdUNmQ0tlQitTUU5BL1RUNnNWLy91YlJzZU5mRGc9PQo=",
+      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.0/Toolbar.by.Fixtech.sv_2.2.0_x64-setup.exe"
     }
   }
 }
