@@ -17,6 +17,15 @@
       "author": "FixTech SV",
       "icon": "https://mp-cdn.elgato.com/media/ba05f173-6d92-4b6e-9f23-fbf0d61ee79e/aa8368e7-4a04-4fec-a86d-aaa6cbbe7757/TikTok_LIVE_Studio-app-icon-optimized-e79bc02a-73ee-4077-b8d6-8f62a439043d.png",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-tiktok-studio.js"
+    },
+    {
+      "id": "ext-discord",
+      "name": "Discord Control",
+      "description": "Controla tu micrófono (silenciar/ensordecer), estado de presencia y funciones de voz en Discord directamente desde tu Toolbar.",
+      "version": "1.0.0",
+      "author": "FixTech SV",
+      "icon": "https://support.discord.com/hc/user_images/PRywUXcqg0v5DD6s7C3LyQ.jpeg",
+      "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-discord.js"
     }
   ]
 }
