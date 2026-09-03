@@ -19,8 +19,8 @@
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-tiktok-studio.js"
     },
     {
-      "id": "ext-discord (beta)",
-      "name": "Discord Control",
+      "id": "ext-discord",
+      "name": "Discord Control (beta)",
       "description": "Controla tu micrófono (silenciar/ensordecer), estado de presencia y funciones de voz en Discord directamente desde tu Toolbar.",
       "version": "1.0.1",
       "author": "FixTech SV",
