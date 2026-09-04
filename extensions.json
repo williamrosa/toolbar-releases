@@ -21,8 +21,8 @@
     {
       "id": "ext-discord",
       "name": "Discord Control (beta)",
-      "description": "Controla tu micrófono (silenciar/ensordecer), estado de presencia y funciones de voz en Discord directamente desde tu Toolbar.",
-      "version": "1.0.1",
+      "description": "Controla tu micrófono (silenciar/ensordecer), estado de presencia y funciones de voz en Discord directamente desde tu Toolbar...",
+      "version": "1.0.2",
       "author": "FixTech SV",
       "icon": "https://support.discord.com/hc/user_images/PRywUXcqg0v5DD6s7C3LyQ.jpeg",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-discord.js"
