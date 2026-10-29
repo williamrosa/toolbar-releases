@@ -12,8 +12,8 @@
     {
       "id": "ext-tiktok-studio",
       "name": "TikTok LIVE Studio (beta)",
-      "description": "Controla tus directos de TikTok: cambia de escenas, silencia el micrófono, pausa el LIVE y graba momentos destacados.",
-      "version": "1.0.0",
+      "description": "Controla tus directos de TikTok: cambia de escenas, silencia el micrófono, pausa el LIVE y graba momentos destacados..",
+      "version": "2.0.0",
       "author": "FixTech SV",
       "icon": "https://mp-cdn.elgato.com/media/ba05f173-6d92-4b6e-9f23-fbf0d61ee79e/aa8368e7-4a04-4fec-a86d-aaa6cbbe7757/TikTok_LIVE_Studio-app-icon-optimized-e79bc02a-73ee-4077-b8d6-8f62a439043d.png",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-tiktok-studio.js"
