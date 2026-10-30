@@ -1,11 +1,11 @@
 {
-  "version": "2.2.5",
-  "notes": "Sonidos desde links de YouTube, TikTok e Instagram, icono de programas en Abrir Recurso y correcciones en Discord",
-  "pub_date": "2026-10-28T00:00:00Z",
+  "version": "2.2.6",
+  "notes": "Control remoto renovado: perfil propio en cada teléfono, dispositivos vinculados con código QR privado, funciona sin internet y pantalla siempre encendida. Nuevo selector de apps instaladas (Microsoft Store) y correcciones en el widget de almacenamiento",
+  "pub_date": "2026-10-30T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTS9BUUxad3ArNThQeWhlVnFuZTlHWlcrRE11dDkwLytCdjZOSXRxdjdkVXpwL2FkQTA5NkhLMTBpOExuUENVUURjZyt0VjQxNnhVZ1JaUEhvcCtEbGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjI5MTYyCWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMi41X3g2NC1zZXR1cC5leGUKNmZBeE1xQTA2SldOa0dQL3p3Zm9nMkhhNmhsNlFQUm5VczkrTWJIUVFOUTBjUGpLL25ReG9yZ1p4WllYcTY0eXd2dmFPY3F3VHIwVUhRYk9IZzR5Q3c9PQo=",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.5/Toolbar.by.Fixtech.sv_2.2.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTE2bTJMcUxPU21EQVdaWUFkOGlSdkFVNGRNME1CRmVzQTdlU2RxQVRMR3BtdHR2RnN3NzBvdForUlRxWmthQmpsSTgwRW53SVdqM0JpeEtkajVScVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDAxMjA1CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMi42X3g2NC1zZXR1cC5leGUKWFZ4ekRDNlJXQXRabGRxNGNuZ1o4NlpEZisxMEROWERWakZRQ1dNMzJ5Z0dHejNmT0Z1VnFudGFGTlg4SktSWXNPbmt6S3RXL2tVOTJyNWZVNWQvQUE9PQo=",
+      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.6/Toolbar.by.Fixtech.sv_2.2.6_x64-setup.exe"
     }
   }
 }
