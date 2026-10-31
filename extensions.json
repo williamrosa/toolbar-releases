@@ -11,7 +11,7 @@
     },
     {
       "id": "ext-tiktok-studio",
-      "name": "TikTok LIVE Studio (beta)",
+      "name": "TikTok LIVE Studio",
       "description": "Controla tus directos de TikTok: cambia de escenas, silencia el micrófono, pausa el LIVE y graba momentos destacados..",
       "version": "2.0.0",
       "author": "FixTech SV",
@@ -20,7 +20,7 @@
     },
     {
       "id": "ext-discord",
-      "name": "Discord Control (beta)",
+      "name": "Discord Control",
       "description": "Controla tu micrófono (silenciar/ensordecer), estado de presencia y funciones de voz en Discord directamente desde tu Toolbar.",
       "version": "4.0.2",
       "author": "FixTech SV",
