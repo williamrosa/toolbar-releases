@@ -3,8 +3,8 @@
     {
       "id": "ext-obs-studio",
       "name": "OBS Studio Control",
-      "description": "Controla tus escenas, silencia el micrófono y maneja tu stream de OBS directamente desde la Toolbar..",
-      "version": "1.1.1",
+      "description": "Controla tus escenas, silencia el micrófono y maneja tu stream de OBS directamente desde la Toolbar.",
+      "version": "1.1.2",
       "author": "FixTech SV",
       "icon": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBQvgCTkr7JEQfCVbj.gkfqJt_hJpUMmy5xhofIHxllHNYnvF6mNax6G4Yqj6XWerPmrosJq4VqzDy7XwtC10Fz4-&format=source",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-obs-studio.js"
@@ -21,8 +21,8 @@
     {
       "id": "ext-discord",
       "name": "Discord Control",
-      "description": "Controla tu micrófono (silenciar/ensordecer), estado de presencia y funciones de voz en Discord directamente desde tu Toolbar.",
-      "version": "4.0.2",
+      "description": "Controla tu micrófono (silenciar/ensordecer), estado de presencia y funciones de voz en Discord directamente desde tu Toolbar..",
+      "version": "4.0.3",
       "author": "FixTech SV",
       "icon": "https://support.discord.com/hc/user_images/PRywUXcqg0v5DD6s7C3LyQ.jpeg",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-discord.js"
