@@ -1,11 +1,11 @@
 {
-  "version": "2.2.6",
-  "notes": "Control remoto renovado: perfil propio en cada teléfono, dispositivos vinculados con código QR privado, funciona sin internet y pantalla siempre encendida. Nuevo selector de apps instaladas (Microsoft Store) y correcciones en el widget de almacenamiento",
-  "pub_date": "2026-10-30T00:00:00Z",
+  "version": "2.2.7",
+  "notes": "Rutinas 2.0 (presionar otros botones, esperas y atajos), apagar/reiniciar desde un botón, enlaces en el monitor que elijas, indicador de apps abiertas, fondo por perfil con GIF, arrastrar archivos a la app y nuevas acciones de Discord: escribir como tú, silenciarte y ensordecerte.",
+  "pub_date": "2026-11-03T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTE2bTJMcUxPU21EQVdaWUFkOGlSdkFVNGRNME1CRmVzQTdlU2RxQVRMR3BtdHR2RnN3NzBvdForUlRxWmthQmpsSTgwRW53SVdqM0JpeEtkajVScVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDAxMjA1CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMi42X3g2NC1zZXR1cC5leGUKWFZ4ekRDNlJXQXRabGRxNGNuZ1o4NlpEZisxMEROWERWakZRQ1dNMzJ5Z0dHejNmT0Z1VnFudGFGTlg4SktSWXNPbmt6S3RXL2tVOTJyNWZVNWQvQUE9PQo=",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.6/Toolbar.by.Fixtech.sv_2.2.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTV6RTNrQ0c0U0VnQ1RqcW96V1FkQ3ljbjlIMDRDb0lNQ2ZWVjZyVnR4d0dQNDIzYmlqQnBHbmplVUJrSkozWnc5VlQ3dzJxSS9NM2NOTExjeUFNYVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ2NjM5CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMi43X3g2NC1zZXR1cC5leGUKZlhWeGt0dUg5UWVrbjdOd2xSd0ZxMXpmVXBWOEFxTVZPdVBHczQzbnQ0di83ZXRjdC9VSVRxRGpCQ0hmcTRZejhQa2J5bFFkcVI4MTUyOXdFRmlCQmc9PQo=",
+      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.6/Toolbar.by.Fixtech.sv_2.2.7_x64-setup.exe"
     }
   }
 }
