@@ -26,6 +26,15 @@
       "author": "FixTech SV",
       "icon": "https://support.discord.com/hc/user_images/PRywUXcqg0v5DD6s7C3LyQ.jpeg",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-discord.js"
+    },
+    {
+      "id": "ext-twitch",
+      "name": "Twitch Control",
+      "description": "Controla tu canal de Twitch: crea clips y marcadores, cambia el título y la categoría, haz raids y shoutouts, y modera el chat desde tu Toolbar.",
+      "version": "1.0.0",
+      "author": "FixTech SV",
+      "icon": "https://assets.twitch.tv/assets/mobile_iphone-e3259cea731ba87531c8.png",
+      "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-twitch.js"
     }
   ]
 }
