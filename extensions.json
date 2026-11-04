@@ -6,7 +6,7 @@
       "description": "Controla tus escenas, silencia el micrófono y maneja tu stream de OBS directamente desde la Toolbar.",
       "version": "1.1.2",
       "author": "FixTech SV",
-      "icon": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBQvgCTkr7JEQfCVbj.gkfqJt_hJpUMmy5xhofIHxllHNYnvF6mNax6G4Yqj6XWerPmrosJq4VqzDy7XwtC10Fz4-&format=source",
+      "icon": "https://ik.imagekit.io/fixtechsv/IconosExtenciones/obs.png",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-obs-studio.js"
     },
     {
@@ -15,7 +15,7 @@
       "description": "Controla tus directos de TikTok: cambia de escenas, silencia el micrófono, pausa el LIVE y graba momentos destacados..",
       "version": "2.0.0",
       "author": "FixTech SV",
-      "icon": "https://mp-cdn.elgato.com/media/ba05f173-6d92-4b6e-9f23-fbf0d61ee79e/aa8368e7-4a04-4fec-a86d-aaa6cbbe7757/TikTok_LIVE_Studio-app-icon-optimized-e79bc02a-73ee-4077-b8d6-8f62a439043d.png",
+      "icon": "https://ik.imagekit.io/fixtechsv/IconosExtenciones/tiktok.png",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-tiktok-studio.js"
     },
     {
@@ -24,7 +24,7 @@
       "description": "Controla tu micrófono (silenciar/ensordecer), estado de presencia y funciones de voz en Discord directamente desde tu Toolbar.",
       "version": "4.0.4",
       "author": "FixTech SV",
-      "icon": "https://support.discord.com/hc/user_images/PRywUXcqg0v5DD6s7C3LyQ.jpeg",
+      "icon": "https://ik.imagekit.io/fixtechsv/IconosExtenciones/discord.png",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-discord.js"
     },
     {
@@ -33,7 +33,7 @@
       "description": "Controla tu canal de Twitch: crea clips y marcadores, cambia el título y la categoría, haz raids y shoutouts, y modera el chat desde tu Toolbar.",
       "version": "1.0.1",
       "author": "FixTech SV",
-      "icon": "https://assets.twitch.tv/assets/mobile_iphone-e3259cea731ba87531c8.png",
+      "icon": "https://ik.imagekit.io/fixtechsv/IconosExtenciones/twitch.png",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-twitch.js"
     }
   ]
