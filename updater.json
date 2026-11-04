@@ -6,6 +6,14 @@
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTV6RTNrQ0c0U0VnQ1RqcW96V1FkQ3ljbjlIMDRDb0lNQ2ZWVjZyVnR4d0dQNDIzYmlqQnBHbmplVUJrSkozWnc5VlQ3dzJxSS9NM2NOTExjeUFNYVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ2NjM5CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMi43X3g2NC1zZXR1cC5leGUKZlhWeGt0dUg5UWVrbjdOd2xSd0ZxMXpmVXBWOEFxTVZPdVBHczQzbnQ0di83ZXRjdC9VSVRxRGpCQ0hmcTRZejhQa2J5bFFkcVI4MTUyOXdFRmlCQmc9PQo=",
       "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.7/Toolbar.by.Fixtech.sv_2.2.7_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTZhQnhDZUFZbThyd21aMkdBa1diU2htbXdGdVdHT1g5aFY4Y2FwUERDVmJHZ0V1YjNQT0NRYlRub0oyMkV2RXRBOG5zcGxYd3Ridmhpd1o4V28wUVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ5MzU2CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKV1F6SnlhZ29IT1FQVEl5S2RjVmF4M3VHZHpvbk1zL210a3g4Y1VGSEVSb0tWc3ZrLy96OC8zbnIwRFVFRnZneXRkWmFqZmR1Q1IwWDJ0ZEIyWE1tQlE9PQo=",
+      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.7/Toolbar_2.2.7_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTZhQnhDZUFZbThyd21aMkdBa1diU2htbXdGdVdHT1g5aFY4Y2FwUERDVmJHZ0V1YjNQT0NRYlRub0oyMkV2RXRBOG5zcGxYd3Ridmhpd1o4V28wUVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ5MzU2CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKV1F6SnlhZ29IT1FQVEl5S2RjVmF4M3VHZHpvbk1zL210a3g4Y1VGSEVSb0tWc3ZrLy96OC8zbnIwRFVFRnZneXRkWmFqZmR1Q1IwWDJ0ZEIyWE1tQlE9PQo=",
+      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.7/Toolbar_2.2.7_universal.app.tar.gz"
     }
   }
 }
