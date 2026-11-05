@@ -40,7 +40,7 @@
       "id": "ext-spotify",
       "name": "Spotify Control",
       "description": "Controla Spotify desde tu Toolbar: play/pausa, cambia de canción, ajusta el volumen solo de Spotify y abre tus playlists, con la portada de lo que suena.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": "FixTech SV",
       "icon": "https://ik.imagekit.io/fixtechsv/IconosExtenciones/spotify.jpg?updatedAt=1793830757541",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-spotify.js"
