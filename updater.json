@@ -1,19 +1,19 @@
 {
-  "version": "2.2.7",
-  "notes": "Rutinas 2.0 (presionar otros botones, esperas y atajos), apagar/reiniciar desde un botón, enlaces en el monitor que elijas, indicador de apps abiertas, fondo por perfil con GIF, arrastrar archivos a la app y nuevas acciones de Discord: escribir como tú, silenciarte y ensordecerte.",
-  "pub_date": "2026-11-03T00:00:00Z",
+  "version": "2.2.8",
+  "notes": "Actualizacion de complementos para extenciones.",
+  "pub_date": "2026-11-05T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTV6RTNrQ0c0U0VnQ1RqcW96V1FkQ3ljbjlIMDRDb0lNQ2ZWVjZyVnR4d0dQNDIzYmlqQnBHbmplVUJrSkozWnc5VlQ3dzJxSS9NM2NOTExjeUFNYVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ2NjM5CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMi43X3g2NC1zZXR1cC5leGUKZlhWeGt0dUg5UWVrbjdOd2xSd0ZxMXpmVXBWOEFxTVZPdVBHczQzbnQ0di83ZXRjdC9VSVRxRGpCQ0hmcTRZejhQa2J5bFFkcVI4MTUyOXdFRmlCQmc9PQo=",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.7/Toolbar.by.Fixtech.sv_2.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTdoOTlvWmNwazVmejVJT3E5dmswQk5BNzdhOEt4QUpsTnVUNVEvSnRhemZBdDlrQzI3TjdLbXFhU1hiZWxWNVZGU203ZW9PMHNOM1lRY2ZzVGJZSmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAwNDA3CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMi44X3g2NC1zZXR1cC5leGUKRytWbFlMRzFZRXBzSGVhM1I1M3I0RFNadWQ5YlQxcHRwY0FYWXgxR1A3M0RJK2xaK050TjJ1aWdIa2dRN0hXQ1c0d0laK2ladXhyZ2xuVDlqTFRYQlE9PQo=",
+      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.8/Toolbar.by.Fixtech.sv_2.2.8_x64-setup.exe"
     },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTZhQnhDZUFZbThyd21aMkdBa1diU2htbXdGdVdHT1g5aFY4Y2FwUERDVmJHZ0V1YjNQT0NRYlRub0oyMkV2RXRBOG5zcGxYd3Ridmhpd1o4V28wUVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ5MzU2CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKV1F6SnlhZ29IT1FQVEl5S2RjVmF4M3VHZHpvbk1zL210a3g4Y1VGSEVSb0tWc3ZrLy96OC8zbnIwRFVFRnZneXRkWmFqZmR1Q1IwWDJ0ZEIyWE1tQlE9PQo=",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.7/Toolbar_2.2.7_universal.app.tar.gz"
+  "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTl1K1RMZHZpU2FxcWhLVUpFUXBLbWhSaE0yZi96S080TzZHMHE5c3k0RHlybkR5YjgrdGFVbXQyTURDVkxwa2o2S1BWN2pGeW00djRWaWF5SzUyNmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAyNjI3CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKSFk5dmU2SHFRY1o0SkU5VGUxUWJEU0x6VW83UGdBWWpJRDhvMGJZaGlBdVp4VE53RnBNdWhjMnQyLytsK0xiRVA3Q2ZvTFE5aWpsdCtWcTV2NktrQ3c9PQo=",
+      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.8/Toolbar_2.2.8_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTZhQnhDZUFZbThyd21aMkdBa1diU2htbXdGdVdHT1g5aFY4Y2FwUERDVmJHZ0V1YjNQT0NRYlRub0oyMkV2RXRBOG5zcGxYd3Ridmhpd1o4V28wUVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ5MzU2CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKV1F6SnlhZ29IT1FQVEl5S2RjVmF4M3VHZHpvbk1zL210a3g4Y1VGSEVSb0tWc3ZrLy96OC8zbnIwRFVFRnZneXRkWmFqZmR1Q1IwWDJ0ZEIyWE1tQlE9PQo=",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.7/Toolbar_2.2.7_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTl1K1RMZHZpU2FxcWhLVUpFUXBLbWhSaE0yZi96S080TzZHMHE5c3k0RHlybkR5YjgrdGFVbXQyTURDVkxwa2o2S1BWN2pGeW00djRWaWF5SzUyNmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAyNjI3CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKSFk5dmU2SHFRY1o0SkU5VGUxUWJEU0x6VW83UGdBWWpJRDhvMGJZaGlBdVp4VE53RnBNdWhjMnQyLytsK0xiRVA3Q2ZvTFE5aWpsdCtWcTV2NktrQ3c9PQo=",
+      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.8/Toolbar_2.2.8_universal.app.tar.gz"
     }
   }
 }
