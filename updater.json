@@ -1,19 +1,19 @@
 {
-  "version": "2.2.8",
-  "notes": "Actualizacion de complementos para extenciones.",
+  "version": "2.2.9",
+  "notes": "Novedades: Actualización automática en Mac, Soporte para la extensión de Spotify, Reordenar perfiles.",
   "pub_date": "2026-11-05T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTdoOTlvWmNwazVmejVJT3E5dmswQk5BNzdhOEt4QUpsTnVUNVEvSnRhemZBdDlrQzI3TjdLbXFhU1hiZWxWNVZGU203ZW9PMHNOM1lRY2ZzVGJZSmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAwNDA3CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMi44X3g2NC1zZXR1cC5leGUKRytWbFlMRzFZRXBzSGVhM1I1M3I0RFNadWQ5YlQxcHRwY0FYWXgxR1A3M0RJK2xaK050TjJ1aWdIa2dRN0hXQ1c0d0laK2ladXhyZ2xuVDlqTFRYQlE9PQo=",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.8/Toolbar.by.Fixtech.sv_2.2.8_x64-setup.exe"
+      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.9/Toolbar.by.Fixtech.sv_2.2.9_x64-setup.exe"
     },
-  "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTl1K1RMZHZpU2FxcWhLVUpFUXBLbWhSaE0yZi96S080TzZHMHE5c3k0RHlybkR5YjgrdGFVbXQyTURDVkxwa2o2S1BWN2pGeW00djRWaWF5SzUyNmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAyNjI3CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKSFk5dmU2SHFRY1o0SkU5VGUxUWJEU0x6VW83UGdBWWpJRDhvMGJZaGlBdVp4VE53RnBNdWhjMnQyLytsK0xiRVA3Q2ZvTFE5aWpsdCtWcTV2NktrQ3c9PQo=",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.8/Toolbar_2.2.8_universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTl1K1RMZHZpU2FxcWhLVUpFUXBLbWhSaE0yZi96S080TzZHMHE5c3k0RHlybkR5YjgrdGFVbXQyTURDVkxwa2o2S1BWN2pGeW00djRWaWF5SzUyNmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAyNjI3CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKSFk5dmU2SHFRY1o0SkU5VGUxUWJEU0x6VW83UGdBWWpJRDhvMGJZaGlBdVp4VE53RnBNdWhjMnQyLytsK0xiRVA3Q2ZvTFE5aWpsdCtWcTV2NktrQ3c9PQo=",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.8/Toolbar_2.2.8_universal.app.tar.gz"
-    }
+   "darwin-aarch64": {
+    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTRZSDBUY3VFcFVBS3h2VHJ3eU5BRU96UkJiN1AwVTFYK1JRQzVQZlFIMDRYR3drSXJWM2M0TFVGcVI3VTFqMmhncGRvbW9qajJaQzVCRjBVSU93QUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTE3NzI4CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKcllLTExPU2t5d0cvRGNRdmMwd2FLck5WdnFLZ2hUWllIRkFrNFlWVHl0R0g2RkNTVUFYbHBuV0E2T255VWtsQkdlOTVSQ0czMDdkT3pWKzRWa1NOQ3c9PQo=",
+    "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.9/Toolbar_2.2.9_universal.app.tar.gz"
+  },
+  "darwin-x86_64": {
+    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTRZSDBUY3VFcFVBS3h2VHJ3eU5BRU96UkJiN1AwVTFYK1JRQzVQZlFIMDRYR3drSXJWM2M0TFVGcVI3VTFqMmhncGRvbW9qajJaQzVCRjBVSU93QUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTE3NzI4CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKcllLTExPU2t5d0cvRGNRdmMwd2FLck5WdnFLZ2hUWllIRkFrNFlWVHl0R0g2RkNTVUFYbHBuV0E2T255VWtsQkdlOTVSQ0czMDdkT3pWKzRWa1NOQ3c9PQo=",
+    "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.9/Toolbar_2.2.9_universal.app.tar.gz"
+  }
   }
 }
