@@ -22,7 +22,7 @@
       "id": "ext-discord",
       "name": "Discord Control",
       "description": "Controla tu micrófono (silenciar/ensordecer), estado de presencia y funciones de voz en Discord directamente desde tu Toolbar.",
-      "version": "4.0.4",
+      "version": "4.0.5",
       "author": "FixTech SV",
       "icon": "https://ik.imagekit.io/fixtechsv/IconosExtenciones/discord.png",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-discord.js"
@@ -40,7 +40,7 @@
       "id": "ext-spotify",
       "name": "Spotify Control",
       "description": "Controla Spotify desde tu Toolbar: play/pausa, cambia de canción, ajusta el volumen solo de Spotify y abre tus playlists, con la portada de lo que suena.",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": "FixTech SV",
       "icon": "https://ik.imagekit.io/fixtechsv/IconosExtenciones/spotify.jpg?updatedAt=1793830757541",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-spotify.js"
