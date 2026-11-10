@@ -1,19 +1,19 @@
 {
-  "version": "2.2.10",
-  "notes": "Novedades: La Tienda de extensiones ahora está en el menú principal y el gestor de licencias se renovó (ver clave activa y vigencia offline, botón Verificar / Renovar y Copiar datos para soporte).",
-  "pub_date": "2026-11-06T00:00:00Z",
+  "version": "2.2.11",
+  "notes": "Novedades: Correcciones sobre funciones en MAC y correciones en extenciones de Discord y Spotify.",
+  "pub_date": "2026-11-11T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTh4QUgzd3NMam0xZVdreDQ1Qm51ZWRpR1l3T1dVRFUxNlJTUzN4UHVGVGovSnRIZnBBd1h5cWM3Zy95OS9GSFQvejE3TnBnS2JsR1J4MFBFVTk4eUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTk3MTkyCWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMi4xMF94NjQtc2V0dXAuZXhlCmhOVjF1VkVBUEkzRG1ML3BXbkhHZEtuMU1kUHJrajZUSTlFZGVBOVBLZlY3VnF2cWVoeXhNMGpwb05uVjRwampYcFIrV0tRb2dob0E1ZjVKWVY5aEFBPT0K",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.10/Toolbar.by.Fixtech.sv_2.2.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTUrNTlublRGenFPSHpJSzkrNWVVTUVmdHZ4WGlsSFBjSTQxVDA0dGRRcHNRYk1Cd2l6K0R6ZmVybXJlZ0dwekpGQmxFZU1hREFhODRXY0Rick44YkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzUxODc5CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMi4xMV94NjQtc2V0dXAuZXhlClQyNldqUUoycUlPdkZRNjNVRGpkbzEwVWFha3NOOGRlVjRSUk1ZSTFZeGJCU3Z3eXZDa1VCaHhUdUhtaHBzcWVpd3UxcHp4NzZ3cnBNVGltbkh2d0NRPT0K",
+      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.11/Toolbar.by.Fixtech.sv_2.2.11_x64-setup.exe"
     },
      "darwin-aarch64": {
-    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTBMMm8xaUhXM0w0VVFFUFE0eGdJRnlST1RFMi8xaUFzZXE1QTRYT0Y3V1hzamEzVGIrMkg4V2xydG5wemY2UWRiVld4ZXhIazJBeGd4N2oyeFIyTGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTk3MzY2CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKNy9IdEZjanYzdE9yWnBxaWVJSnJRK01JWnhZLzRTSUZuT094VE9EOXl6b3J4Y01CKzI2ZWZZR3BSbis2ZXg1bDhxazBCQXFVTW82MGFWNklFVDhLREE9PQo=",
-    "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.10/Toolbar_2.2.10_universal.app.tar.gz"
+    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTSs3aTQvTW5velVGZHBtTC8reTE1UlEzeDI3RGhOSnd1akY0aHRPajdKdW5zVTRhOFFIN3l1UmE1TlB5SDAvNTFFSFNjVXhpU21yT0gvUHdjSlNyandrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzUxOTAzCWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKT3hVSGFCZWdFWWViTE1RV2p4T0RkOFdHZ3U5bTRJdGtmWUkwYmwrNitEQTFLNE1iTFFrSEk4RE9JaGpZNmhmWmpScVRhZi9FOFVXN0U0OW5zUEtQREE9PQo=",
+    "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.11/Toolbar_2.2.11_universal.app.tar.gz"
   },
   "darwin-x86_64": {
-    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTBMMm8xaUhXM0w0VVFFUFE0eGdJRnlST1RFMi8xaUFzZXE1QTRYT0Y3V1hzamEzVGIrMkg4V2xydG5wemY2UWRiVld4ZXhIazJBeGd4N2oyeFIyTGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTk3MzY2CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKNy9IdEZjanYzdE9yWnBxaWVJSnJRK01JWnhZLzRTSUZuT094VE9EOXl6b3J4Y01CKzI2ZWZZR3BSbis2ZXg1bDhxazBCQXFVTW82MGFWNklFVDhLREE9PQo=",
-    "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.10/Toolbar_2.2.10_universal.app.tar.gz"
+    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTSs3aTQvTW5velVGZHBtTC8reTE1UlEzeDI3RGhOSnd1akY0aHRPajdKdW5zVTRhOFFIN3l1UmE1TlB5SDAvNTFFSFNjVXhpU21yT0gvUHdjSlNyandrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzUxOTAzCWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKT3hVSGFCZWdFWWViTE1RV2p4T0RkOFdHZ3U5bTRJdGtmWUkwYmwrNitEQTFLNE1iTFFrSEk4RE9JaGpZNmhmWmpScVRhZi9FOFVXN0U0OW5zUEtQREE9PQo=",
+    "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.11/Toolbar_2.2.11_universal.app.tar.gz"
   }
   }
 }
