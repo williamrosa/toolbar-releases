@@ -49,7 +49,7 @@
       "id": "ext-photocraft",
       "name": "PhotoCraft Control",
       "description": "Controla PhotoCraft desde tu Toolbar: herramientas, capas, máscaras, modos de fusión, opacidad y pincel, con la capa y el pincel a la vista en tus botones. Muchos botones también funcionan en Photoshop con los mismos atajos.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": "FixTech SV",
       "icon": "https://ik.imagekit.io/fixtechsv/IconosExtenciones/photocraft.png",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-photocraft.js"
