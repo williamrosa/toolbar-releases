@@ -49,10 +49,19 @@
       "id": "ext-photocraft",
       "name": "PhotoCraft/Photoshop Control",
       "description": "Controla PhotoCraft desde tu Toolbar: herramientas, capas, máscaras, modos de fusión, opacidad y pincel, con la capa y el pincel a la vista en tus botones. Muchos botones también funcionan en Photoshop con los mismos atajos.",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": "FixTech SV",
       "icon": "https://ik.imagekit.io/fixtechsv/IconosExtenciones/photocraft.png",
       "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-photocraft.js"
+    },
+    {
+      "id": "ext-filmcraft",
+      "name": "FilmCraft/PremierPro Control",
+      "description": "Controla FilmCraft desde tu Toolbar: reproduce con J K L, marca entradas y marcadores, corta, elige herramientas y exporta, con el código de tiempo en tus botones. Muchos botones también funcionan en Premiere Pro con los mismos atajos.",
+      "version": "1.0.0",
+      "author": "FixTech SV",
+      "icon": "https://ik.imagekit.io/fixtechsv/IconosExtenciones/filmcraft.png",
+      "download_url": "https://raw.githubusercontent.com/williamrosa/toolbar-releases/refs/heads/main/plugins/ext-filmcraft.js"
     }
   ]
 }
