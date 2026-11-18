@@ -1,19 +1,19 @@
 {
-  "version": "2.2.13",
-  "notes": "Novedades: botonera del celular a tu medida (tamaño de cada botón y vista «Celular» para acomodarlos), barras de volumen y brillo, mejoras en Spotify y OBS, y correcciones en Mac.",
-  "pub_date": "2026-11-15T16:00:00Z",
+  "version": "2.2.14",
+  "notes": "Novedades: extensiones de PhotoCraft y FilmCraft (compatibles con Photoshop y Premiere Pro), perfiles listos de extensiones, tienda con buscador, orden y vista de dos columnas, y corrección al guardar las grabaciones de Discord.",
+  "pub_date": "2026-11-18T16:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTStqelMrdE81ZmUzdVFGbFVUZ3pqTVFMbEVzR3I1TVBYOWdMU09iOXVaRWFDVThhQXpvdlVRalNZbTZ1M25lcDBnZ0tMaXBtaXRhNGhqcWQwRVE2UXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzc2MzExCWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMi4xM194NjQtc2V0dXAuZXhlCndnUGUyaE4wVXlxdFlOZnp5Nm1XK2NmaXFnbEdQNElFUS9xYzdTeTdxQjU0ZXByc25iNENBL1ZNY05UUTFyNzRWSi9vTFhKUVRNOHV3TEJJV29nYkRRPT0K",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.13/Toolbar.by.Fixtech.sv_2.2.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTXplRnl5OUJ4VVhSb0hocko0TXdENEhUSWtiaExUd2pYT0p1UktnRnJHWDIzQU1YczZpY2RENzRjdzV5dGk3Z0dmRGZWUUlCbzhDRldlcUU0YXUvZ3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQwNjQxCWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuMi4xNF94NjQtc2V0dXAuZXhlCmpWWjZBbm51citHWUorSHh1VSthWXkwNk9mZTR6RkY1N3RSaVJQVmxWVkQwdUhjVFdkM1NkelRZSFZlcXFzYUhtMVV6U1BhaitEeG5RZUpRZkNoeENRPT0K",
+      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.14/Toolbar.by.Fixtech.sv_2.2.14_x64-setup.exe"
     },
-       "darwin-aarch64": {
-    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTThTaHNNdE4wM0pBemJTUVR5a1pLV2ZvL3Q4ZEpRS1JVOVBvTU5lRm1mamdhc2xtMkdDYTA1TnBNMjVtTmxYam56dUNGc0tqRnlhaGNKQzF3VVE3VXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzc2NjkxCWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKYW9vdXd4MHhLQ3dQYkVPdkRRcmc4YzQvRFJkeHFPWi9ZeDdsNDErU3o3c0d5NEl2Z295NzQrY2N6VzhpUzZhMUt5WllxcmNkT1ZFZmQzNEdRSWtVQ3c9PQo=",
-    "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.13/Toolbar_2.2.13_universal.app.tar.gz"
+         "darwin-aarch64": {
+    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTXhMdmZTNEt3NkNFNWtMNVV3K05BRTkwOVRoN3VMWE1nczBmdFRFVVc4dW1nUEZadVVEV3JkWjIzaTZLbkJXUW9KQmg5SHp2WDduMnZTSk9GMi9kbkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQwNzA2CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKTzlvWG8xTEtZUEFmL3ZUM3BXZUlBRzBYeUNXdnhxb1FIaXg0YlkvQ1NidjYzblg0VFBxeUNvc3NBU0dDYzBDNTJvOVFPcEpOUkFmdXNvOS9rQ2hCQ1E9PQo=",
+    "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.14/Toolbar_2.2.14_universal.app.tar.gz"
   },
   "darwin-x86_64": {
-    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTThTaHNNdE4wM0pBemJTUVR5a1pLV2ZvL3Q4ZEpRS1JVOVBvTU5lRm1mamdhc2xtMkdDYTA1TnBNMjVtTmxYam56dUNGc0tqRnlhaGNKQzF3VVE3VXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzc2NjkxCWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKYW9vdXd4MHhLQ3dQYkVPdkRRcmc4YzQvRFJkeHFPWi9ZeDdsNDErU3o3c0d5NEl2Z295NzQrY2N6VzhpUzZhMUt5WllxcmNkT1ZFZmQzNEdRSWtVQ3c9PQo=",
-    "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.13/Toolbar_2.2.13_universal.app.tar.gz"
+    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTXhMdmZTNEt3NkNFNWtMNVV3K05BRTkwOVRoN3VMWE1nczBmdFRFVVc4dW1nUEZadVVEV3JkWjIzaTZLbkJXUW9KQmg5SHp2WDduMnZTSk9GMi9kbkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQwNzA2CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKTzlvWG8xTEtZUEFmL3ZUM3BXZUlBRzBYeUNXdnhxb1FIaXg0YlkvQ1NidjYzblg0VFBxeUNvc3NBU0dDYzBDNTJvOVFPcEpOUkFmdXNvOS9rQ2hCQ1E9PQo=",
+    "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.2.14/Toolbar_2.2.14_universal.app.tar.gz"
   }
   }
 }
