@@ -29,6 +29,15 @@ Este proyecto está desarrollado bajo una arquitectura de alto rendimiento:
 
 ## 📥 Instalación y Descargas
 
+### 🪟 Instalar en Windows
+Toolbar todavía no está firmada digitalmente, así que Windows puede bloquearla:
+
+- **«Windows protegió su PC»:** pulsa **Más información** y luego **Ejecutar de todos modos**.
+- **«Control inteligente de aplicaciones» bloqueó el instalador:** este aviso no deja continuar. Busca **Control inteligente de aplicaciones** en el menú Inicio y ponlo en **Desactivado**. Mientras Toolbar no esté firmada, tiene que quedar apagado; si lo vuelves a encender, Windows bloqueará Toolbar y sus actualizaciones.
+
+Estamos trabajando para firmar Toolbar y que este paso ya no sea necesario.
+
+
 Descarga la última versión desde **[Releases](https://github.com/williamrosa/toolbar-releases/releases/latest)**.
 
 ### Windows
