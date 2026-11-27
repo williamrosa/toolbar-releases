@@ -4,16 +4,16 @@
   "pub_date": "2026-11-26T23:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "<contenido del .sig de Toolbar by Fixtech sv_2.4.0_x64-setup.exe>",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTJsNFdEekg5engxb3M5N1h3eEtibU9WYnpUQjFOaG9SK0d0bGdXWGM5d1JmN2ZTR3Y2V0J3dVo2SHFDNDNBMndyc2tjbjUrQkdDNTVzUzFjd0VoVFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzM1NDE4CWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2XzIuNC4wX3g2NC1zZXR1cC5leGUKWC9pMkhFaWhGWHQ4NDFjTmdwNFN2S0FBckxQbTBPN2FLRnFhQkEyejc4QWFrMnVxQzFSU1daQk9lMDhSMGpGaFc4dHdKTW8wWGdlWUpPR1BjNkNZQ0E9PQo=",
       "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.4.0/Toolbar.by.Fixtech.sv_2.4.0_x64-setup.exe"
     },
-    "darwin-aarch64": {
-      "signature": "<firma del resumen del workflow «Compilar macOS»>",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.4.0/Toolbar_2.4.0_universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "<la misma firma de Mac>",
-      "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.4.0/Toolbar_2.4.0_universal.app.tar.gz"
-    }
+      "darwin-aarch64": {
+    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTRkWXlHRlVYQUFuYlI1UitNMlVWeEpBTHpZRVJzeUZIeTJCVTJYYU51TUNXaWFiOEFaejRDQ3dFdSsweGFOY2Vod0pTc09hOTNjNXFSbVZoSVJQaEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzM1NTMyCWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKa2VINUk5RlVldEV1V1VYSzlmY09jSElueWRKWEhZVXV5Y01WRlFDcm9kblREUDVrV243UnI2eTV1Sm5XOFdVQmZ2YWFCblVTRFN6QXkwK0x6QzVsQXc9PQo=",
+    "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.4.0/Toolbar_2.4.0_universal.app.tar.gz"
+  },
+  "darwin-x86_64": {
+    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRazhXSkV0ZjNLTTRkWXlHRlVYQUFuYlI1UitNMlVWeEpBTHpZRVJzeUZIeTJCVTJYYU51TUNXaWFiOEFaejRDQ3dFdSsweGFOY2Vod0pTc09hOTNjNXFSbVZoSVJQaEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzM1NTMyCWZpbGU6VG9vbGJhciBieSBGaXh0ZWNoIHN2LmFwcC50YXIuZ3oKa2VINUk5RlVldEV1V1VYSzlmY09jSElueWRKWEhZVXV5Y01WRlFDcm9kblREUDVrV243UnI2eTV1Sm5XOFdVQmZ2YWFCblVTRFN6QXkwK0x6QzVsQXc9PQo=",
+    "url": "https://github.com/williamrosa/toolbar-releases/releases/download/v2.4.0/Toolbar_2.4.0_universal.app.tar.gz"
+  }
   }
 }
